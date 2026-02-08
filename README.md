@@ -59,7 +59,7 @@ Instead:
 
 ## Support
 
-- [Report Issues](https://github.com/ShadyTidus/Shady-7dtd-mod-launcher/issues)
+- [Report Issues](https://github.com/ShadyTidus/7dtd-mod-launcher/issues)
 
 ---
 
