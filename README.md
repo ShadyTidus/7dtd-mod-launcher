@@ -56,7 +56,7 @@ Instead:
 
 - Windows 10/11 (x64)
 - 7 Days to Die installed (Steam)
-- ~500MB free space per profile
+- ~500MB free space per profile (mod dependant)
 
 ## Support
 
