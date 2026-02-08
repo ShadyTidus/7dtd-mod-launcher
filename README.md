@@ -34,6 +34,7 @@ Instead:
 
 1. **Download** the latest release from [Releases](../../releases)
 2. **Run** `7DTDModLauncher.exe`
+   > **Note:** Windows may show a SmartScreen warning since the app isn't code-signed yet. Click "More info" → "Run anyway" to proceed.
 3. **Set** your 7 Days to Die installation path (auto-detected if using Steam)
 4. **Create** your first profile
 5. **Add mods** via drag & drop or the Manage Mods button
@@ -60,6 +61,7 @@ Instead:
 ## Support
 
 - [Report Issues](https://github.com/ShadyTidus/7dtd-mod-launcher/issues)
+- [Support Development](https://ko-fi.com/shadytidus)
 
 ---
 
