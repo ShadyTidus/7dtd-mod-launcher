@@ -63,9 +63,9 @@ Instead:
 
 - [Report Issues](https://github.com/ShadyTidus/Shady-7dtd-mod-launcher/issues)
 
-## Security
+## Security Verification
 
-- [VirusTotal Scan](https://www.virustotal.com/gui/url/ce8a0cf5f4638df45735b0d8120fa86136819517832288ebc0beb537e76073f0/detection)
+- [VirusTotal Scan](https://www.virustotal.com/gui/url/ce8a0cf5f4638df45735b0d8120fa86136819517832288ebc0beb537e76073f0/detection) Result: 0 / 94 engines detected malware.
 
 ---
 
