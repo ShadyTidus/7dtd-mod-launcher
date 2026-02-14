@@ -29,12 +29,13 @@ Instead:
 - **Profile Export/Import** - Share profiles with friends
 - **System Tray** - Minimizes to tray while game is running
 - **Protected Mods** - Core mods like 0_TFP_Harmony are never touched
+- **Auto-Update Checking** - Get notified when new versions are available
+- **Community Stats** - Opt-in anonymous user count (see how many others use the launcher)
 
 ## Quick Start
 
 1. **Download** the latest release from [Releases](../../releases)
 2. **Run** `7DTDModLauncher.exe`
-   > **Note:** Windows may show a SmartScreen warning since the app isn't code-signed yet. Click "More info" → "Run anyway" to proceed.
 3. **Set** your 7 Days to Die installation path (auto-detected if using Steam)
 4. **Create** your first profile
 5. **Add mods** via drag & drop or the Manage Mods button
@@ -56,12 +57,11 @@ Instead:
 
 - Windows 10/11 (x64)
 - 7 Days to Die installed (Steam)
-- ~500MB free space per profile (mod dependant)
+- ~500MB free space per profile
 
 ## Support
 
-- [Report Issues](https://github.com/ShadyTidus/7dtd-mod-launcher/issues)
-- [Support Development](https://ko-fi.com/shadytidus)
+- [Report Issues](https://github.com/ShadyTidus/Shady-7dtd-mod-launcher/issues)
 
 ---
 
