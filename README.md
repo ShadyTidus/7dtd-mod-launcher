@@ -65,7 +65,10 @@ Instead:
 
 ## Security Verification
 
-- [VirusTotal Scan](https://www.virustotal.com/gui/url/ce8a0cf5f4638df45735b0d8120fa86136819517832288ebc0beb537e76073f0/detection) Result: 0 / 94 engines detected malware.
+- [VirusTotal Download URL Scan](https://www.virustotal.com/gui/url/ce8a0cf5f4638df45735b0d8120fa86136819517832288ebc0beb537e76073f0/detection) Result: 0 / 94 engines detected malware.
+- [VirusTotal File Scan](https://www.virustotal.com/gui/file/b473bbee91407f05a007bd284884e6b18188d5d7798a80ec5a9bea49798c21ed/detection) Result: 1 / 70 engines flagged (Gridinsoft heuristic detection) All major engines report Undetected.
+
+This application is unsigned, which may cause SmartScreen warnings until reputation builds.
 
 ---
 
