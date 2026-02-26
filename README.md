@@ -31,15 +31,25 @@ Instead:
 - **Protected Mods** - Core mods like 0_TFP_Harmony are never touched
 - **Auto-Update Checking** - Get notified when new versions are available
 - **Community Stats** - Opt-in anonymous user count (see how many others use the launcher)
+- **Profile Play Stats** - Track launch count and total playtime per profile
+- **Quick Launch from Tray** - Right-click tray icon to launch any profile instantly
+- **Profile Color Coding** - Assign colors to profiles for easy identification
+- **Mod Size Display** - See total disk size of mods per profile (e.g., "12 mods · 2.3 GB")
+- **Profile Sharing** - Publish profiles online and import from others (Discord login)
+- **Configurable Downloads Folder** - Set a custom folder for Nexus mod downloads monitoring
 
 ## Quick Start
 
 1. **Download** the latest release from [Releases](../../releases)
-2. **Run** `7DTDModLauncher.exe`
-3. **Set** your 7 Days to Die installation path (auto-detected if using Steam)
-4. **Create** your first profile
-5. **Add mods** via drag & drop or the Manage Mods button
-6. **Launch** and play!
+2. **Create a dedicated folder** for the launcher (e.g., `Documents\7DTDModLauncher`)
+3. **Move** `7DTDModLauncher.exe` into that folder
+4. **Run** `7DTDModLauncher.exe`
+5. **Set** your 7 Days to Die installation path (auto-detected if using Steam)
+6. **Create** your first profile
+7. **Add mods** via drag & drop or the Manage Mods button
+8. **Launch** and play!
+
+> **Important:** Always run the launcher from the same folder. The launcher stores profiles and settings relative to where the exe is located. Running from Downloads or moving the exe will create separate data folders.
 
 ## Keyboard Shortcuts
 
@@ -62,6 +72,10 @@ Instead:
 ## Support
 
 - [Report Issues](https://github.com/ShadyTidus/Shady-7dtd-mod-launcher/issues)
+
+## Thanks
+
+- **Otterly One** (Discord) - For helping identify the Downloads folder installation issue
 
 ## Security Verification
 
