@@ -40,6 +40,28 @@ Instead:
 - **Server Profiles** - Create linked profiles for different servers that share the same mods (saves disk space)
 - **Server Query** - Query server status to see in-game day, time, players online, and blood moon countdown
 
+## What's New in v2.2.0
+
+### Server Profiles
+Create linked profiles for different servers that share the same mod folder. Perfect for playing on multiple servers with the same modpack - saves disk space!
+
+Example:
+```
+Darkness Falls (base) --- Mods/ (2.3 GB)
+├── DF - Server 1 (linked, connects to 192.168.1.100)
+├── DF - Server 2 (linked, connects to 10.0.0.50)
+└── DF - Offline (linked, no server)
+```
+
+### Server Query
+Query your server directly from the launcher to see:
+- In-game day and time
+- Players online
+- Next blood moon countdown
+
+### Styled Dialogs
+All popup dialogs now match the app's dark theme for a more polished experience.
+
 ## Quick Start
 
 1. **Download** the latest release from [Releases](../../releases)
