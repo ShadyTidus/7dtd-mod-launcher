@@ -37,6 +37,8 @@ Instead:
 - **Mod Size Display** - See total disk size of mods per profile (e.g., "12 mods · 2.3 GB")
 - **Profile Sharing** - Publish profiles online and import from others (Discord login)
 - **Configurable Downloads Folder** - Set a custom folder for Nexus mod downloads monitoring
+- **Server Profiles** - Create linked profiles for different servers that share the same mods (saves disk space)
+- **Server Query** - Query server status to see in-game day, time, players online, and blood moon countdown
 
 ## Quick Start
 
